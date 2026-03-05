@@ -116,11 +116,15 @@ A phased array antenna consists of multiple radiating elements arranged in a spe
 
 ### Hertz Antenna
 
+The Hertz antenna is one of the earliest experimental antennas used to demonstrate the existence of electromagnetic waves. It typically consists of a short dipole connected to a spark gap transmitter. This antenna radiates electromagnetic energy when current oscillates through the conductor and is mainly used for educational demonstrations of radio wave generation.
+
 <img width="400" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/Hertz%20antenna/Hertz%20antenna(Bottom).jpg" />
 
 <img width="400" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/Hertz%20antenna/Hertz%20antenna(Top).jpg" />
 
 ### Simple Dipole
+
+A simple dipole antenna consists of two equal conductive elements connected to a transmission line at the center. It is one of the most fundamental antennas in communication systems and produces a nearly omnidirectional radiation pattern. Dipole antennas are commonly used as reference antennas in experiments.
 
 #### types of simple dipole
 
@@ -132,11 +136,15 @@ A phased array antenna consists of multiple radiating elements arranged in a spe
 
 ### Zeppeline Antenna
 
+The Zeppelin antenna is a type of end-fed antenna originally used on early airships. It consists of a long wire fed through a matching network or transmission line. The design allows efficient radiation of RF energy and was historically used for long-distance radio communication.
+
 <img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/Zeppline%20antenna/Zeppline%20antenna((top).jpg" />
 
 <img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/Zeppline%20antenna/Zeppline%20antenna(bottom).jpg" />
 
 ### Rhombus Antenna
+
+A rhombus antenna is a large directional antenna formed by four wires arranged in a diamond shape. It is designed to provide high gain and directional transmission for long-distance communication. Rhombic antennas were widely used for shortwave broadcasting and international radio links.
 
 <img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/Rhombus%20antenna/Rhombus%20antenna(BOTTOM).jpg" />
 
@@ -144,11 +152,15 @@ A phased array antenna consists of multiple radiating elements arranged in a spe
 
 ### Periodic Antenna
 
+A periodic antenna, commonly known as a log-periodic antenna, consists of multiple elements arranged in a geometric progression. This design allows the antenna to operate efficiently over a wide range of frequencies. It is widely used in television reception, communication systems, and measurement applications.
+
 <img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/Periodic%20antenna/Periodic%20antenna(Top%20view).jpg" />
 
 <img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/Periodic%20antenna/Periodic%20antenna(Bottom).jpg" />
 
 ### Broad Side Array
+
+A broadside array antenna is formed by arranging multiple antenna elements in a straight line and feeding them with equal phase currents. This configuration produces maximum radiation perpendicular to the array axis. Broadside arrays are used to increase antenna gain and directivity.
 
 <img width="400" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/Broad%20side%20array/BROAD%20SIDE%20ARRAY(top).jpg" />
 
@@ -156,11 +168,15 @@ A phased array antenna consists of multiple radiating elements arranged in a spe
 
 ### Combined Collinear Array
 
+A combined collinear array consists of multiple antenna elements placed end-to-end along the same axis. These elements are fed in phase so their radiation adds constructively in the horizontal direction. This arrangement increases signal strength and improves antenna gain.
+
 <img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/Combined%20collinear%20array/Combined%20collinear%20array(Bottom).jpg" />
 
 <img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/Combined%20collinear%20array/Combined%20collinear%20array(top%20view).jpg" />
 
 ### Loop Antenna 
+
+A loop antenna is made from a loop of wire or conductor carrying alternating current. It radiates electromagnetic waves and is commonly used for radio reception and direction finding. Loop antennas are known for their compact design and sensitivity to magnetic field components.
 
 <div align="center">
 <img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/Loop%20antenna/Loop%20antenna(Top).jpg" />
@@ -170,18 +186,22 @@ A phased array antenna consists of multiple radiating elements arranged in a spe
 
 A helical antenna consists of a conductor wound into a helix shape. It is commonly used for satellite communication because it can produce circular polarization and good directivity. Helical antennas are also used in space communication and GPS systems.
 
-
 <div align="center">
 <img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/Helical%20antenna/Helical%20antenna.jpg" />
 </div>
 
 ### Slot Antenna
 
+A slot antenna is formed by cutting a narrow slot in a conductive surface such as a metal plate or waveguide. When excited by RF energy, the slot radiates electromagnetic waves similar to a dipole antenna. Slot antennas are commonly used in microwave systems and radar applications.
+
 <img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/Slot%20antenna/Slot%20antenna(Bottom).jpg" />
 
 <img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/Slot%20antenna/Slot%20antenna(Top).jpg" />
 
 ### Paraboloid Simple Dipole
+
+A paraboloid antenna uses a parabolic reflector to focus electromagnetic waves into a narrow beam. A simple dipole is placed at the focal point of the reflector and acts as the feed antenna. This arrangement produces high gain and strong directivity, making it suitable for satellite and microwave communication.
+
 
 <img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/Parabolod%20simple%20dipole/Paraboloid%20simple%20dipole(Top).jpg" />
 
@@ -198,16 +218,22 @@ A ground plane antenna is a vertical antenna that uses a conductive surface as a
 
 ### Matching stub
 
+A matching stub is a short section of transmission line connected to the main line to improve impedance matching between components. It reduces signal reflections and improves power transfer efficiency between the transmitter, transmission line, and antenna.
+
 <img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/Transmitter/Matching%20stub.jpg" />
 
 ### Transmitter side
+
+The transmitter side of the trainer includes the RF signal generator and transmitting antenna. It is responsible for generating the electromagnetic signal and radiating it into free space. The transmitted signal can then be detected and analyzed by the receiving system.
 
 <img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/Transmitter/Transmitter.jpg" />
 
 - Transmitting mast holds the transmitting antenna
 <img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/Transmitter/Antenna%20transmitting%20mast.jpg" />
 
-### Receiver
+### Receiver Side
+
+The receiver side includes the receiving antenna and detection circuitry. It captures electromagnetic waves transmitted through free space and converts them back into electrical signals. These signals can then be measured and analyzed using laboratory instruments.
 
 - RF Detector is the device that receives the transmitted signal and converts it into the orignal message
 <div align="center">
