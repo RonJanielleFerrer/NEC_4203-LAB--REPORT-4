@@ -175,6 +175,53 @@ A directional antenna consisting of a driven element (dipole or folded dipole), 
 
 ### Paraboloid Simple Dipole
 
+<img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/Parabolod%20simple%20dipole/Paraboloid%20simple%20dipole(Top).jpg" />
+
+<img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/Parabolod%20simple%20dipole/Paraboloid%20simple%20dipole.jpg" />
+
+### Grounded Plane Antenna
+
+<img width="500" height="700" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/grounded%20plane%20antenna/Grounded%20plane%20antenna(Bottom).jpg" />
+
+<img width="500" height="700" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/grounded%20plane%20antenna/Grounded%20plane%20antenna(top).jpg" />
+
+### Matching stub
+
+<img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/Transmitter/Matching%20stub.jpg" />
+
+### Transmitter side
+
+<img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/Transmitter/Transmitter.jpg" />
+
+- Transmitting mast holds the transmitting antenna
+<img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/Transmitter/Antenna%20transmitting%20mast.jpg" />
+
+### Receiver
+
+- RF Detector is the device that receives the transmitted signal and converts it into the orignal message
+<div align="center">
+<img width="400" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/RF%20Detector/RF%20Detector%20.jpg" />
+</div>
+
+- Receiving mast holds the receiving antenna 
+<div align="center">
+<img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/RF%20Detector/Receiving%20mast.jpg" />
+</div>
+
+ ### Setup
+
+- Transmitter 
+
+<div align="center">
+<img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Setup/Antennas/Transmitter/Transmitter%20setup.jpg" />
+</div>
+
+- Receiver
+  
+<div align="center">
+<img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Setup/Antennas/Receiver/Receiver%20setup.jpg" />
+  </div>
+	
 ## Results and Discussion
 During the experiment, different antennas were connected to the transmitter and receiver modules to observe signal transmission behavior. It was observed that antenna structure and orientation significantly influence the received signal strength. Directional antennas such as Yagi-Uda provided stronger signals in specific directions, while omnidirectional antennas like dipole antennas radiated signals more uniformly. The experiment demonstrated how antenna design affects radiation pattern, gain, and signal coverage.
 
