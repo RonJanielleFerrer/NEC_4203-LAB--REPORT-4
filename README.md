@@ -3,6 +3,8 @@
 <summary> This repository contains laboratory documentation and observations using the **Telecommunications Transmission Trainer**. The trainer is divided into two main parts: **Antennas** and **Waveguides**. These experiments allow students to explore how electromagnetic waves are transmitted, guided, and received in practical communication systems.
 Through hands-on experimentation, students gain understanding of antenna radiation, microwave signal propagation, and the behavior of guided electromagnetic waves. The trainer provides real components used in communication engineering, helping bridge theoretical concepts with practical application.</summary>
 
+---
+
 <details>
   
 <summary> Antenna Trainer </summary>
