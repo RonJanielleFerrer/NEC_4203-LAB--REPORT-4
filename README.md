@@ -35,6 +35,8 @@ Antennas are essential components in wireless communication systems because they
 
 ## Dipole Antenna
 
+A dipole antenna is one of the simplest and most widely used antenna types. It consists of two conductive elements where RF current flows, producing electromagnetic radiation. Dipole antennas are commonly used as reference antennas due to their simple structure and nearly omnidirectional radiation pattern.
+
 ### Types of dipole antenna
 
 #### Folded dipole
@@ -53,7 +55,7 @@ Antennas are essential components in wireless communication systems because they
 
 ### Yagi-Uda Antenna
 
-A directional antenna consisting of a driven element (dipole or folded dipole), one reflector element behind it, and multiple director elements in front. It achieves high gain through parasitic coupling. Applications: Television reception, point-to-point communication links, amateur radio, and wireless bridges.
+The Yagi-Uda antenna is a directional antenna composed of a driven element, reflector, and several director elements. This arrangement increases antenna gain and directs the radiation pattern in a specific direction. Yagi antennas are widely used for television reception and point-to-point communication systems.
 
 #### types of yagi-uda antennas
 
@@ -90,6 +92,9 @@ A directional antenna consisting of a driven element (dipole or folded dipole), 
 <img width="300" height="500" alt="image" src="https://github.com/dexterestacion/NEC-4203-LAB-REPORT-4/blob/main/Additional%20data/Antenna/Yagi%20uda%20antenna/Simple%20dipole%20elements/7%20Elements/Yagi%20uda%20simple%207%20element(Bottom).jpg" />
 
 ### Phase Array
+
+A phased array antenna consists of multiple radiating elements arranged in a specific pattern. By adjusting the phase of signals fed to each element, the direction of the antenna beam can be electronically controlled without physically moving the antenna. Phased arrays are commonly used in radar systems and advanced wireless communication systems.
+
 
 ### Types of phase array antenna
 
@@ -163,6 +168,9 @@ A directional antenna consisting of a driven element (dipole or folded dipole), 
 
 ### Helical Antenna
 
+A helical antenna consists of a conductor wound into a helix shape. It is commonly used for satellite communication because it can produce circular polarization and good directivity. Helical antennas are also used in space communication and GPS systems.
+
+
 <div align="center">
 <img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/Helical%20antenna/Helical%20antenna.jpg" />
 </div>
@@ -180,6 +188,9 @@ A directional antenna consisting of a driven element (dipole or folded dipole), 
 <img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/Parabolod%20simple%20dipole/Paraboloid%20simple%20dipole.jpg" />
 
 ### Grounded Plane Antenna
+
+A ground plane antenna is a vertical antenna that uses a conductive surface as a reflecting plane. It typically consists of a vertical radiating element and several radial elements acting as the ground plane. This design improves radiation efficiency and creates an omnidirectional radiation pattern.
+
 
 <img width="500" height="700" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/grounded%20plane%20antenna/Grounded%20plane%20antenna(Bottom).jpg" />
 
