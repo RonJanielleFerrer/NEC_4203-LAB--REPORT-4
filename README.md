@@ -67,15 +67,3 @@ The waveguide trainer allowed observation of microwave signal propagation throug
 
 ## Reflection / Learning Summary
 The experiment provided a better understanding of how microwave signals behave inside waveguide structures. It showed that waveguides are effective for transmitting high-frequency signals with low losses compared to other transmission methods. The use of different microwave components helped illustrate how signals can be controlled, measured, and optimized in communication systems. This activity strengthened the connection between theoretical microwave concepts and real laboratory applications.
-
----
-
-# Reference
-
-### Antennas
-- https://www.techtarget.com/searchmobilecomputing/definition/antenna
-- https://www.lenovo.com/us/en/glossary/antenna/
-
-### Waveguides
-- https://www.allaboutcircuits.com/textbook/alternating-current/chpt-14/waveguides/
-- https://en.wikipedia.org/wiki/Waveguide
