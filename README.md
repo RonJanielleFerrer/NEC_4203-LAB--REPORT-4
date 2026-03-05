@@ -3,7 +3,7 @@
 <summary> This repository contains laboratory documentation and observations using the **Telecommunications Transmission Trainer**. The trainer is divided into two main parts: **Antennas** and **Waveguides**. These experiments allow students to explore how electromagnetic waves are transmitted, guided, and received in practical communication systems.
 Through hands-on experimentation, students gain understanding of antenna radiation, microwave signal propagation, and the behavior of guided electromagnetic waves. The trainer provides real components used in communication engineering, helping bridge theoretical concepts with practical application.</summary>
 
-# Antennas
+<details># Antennas
 
 ## Introduction
 Antennas are essential components in wireless communication systems because they convert electrical signals into electromagnetic waves that can travel through free space. Different antenna structures produce different radiation patterns, gains, and directional properties. Studying antennas helps in understanding how signals are transmitted and received over long distances without physical connections. In this experiment, the Telecommunications Transmission Trainer is used to observe the characteristics and behavior of various antenna types used in communication systems.
@@ -34,9 +34,9 @@ During the experiment, different antennas were connected to the transmitter and 
 
 ## Reflection / Learning Summary
 This activity helped in understanding the practical operation of antennas used in wireless communication systems. By observing different antenna types, it became clear that antenna structure plays a major role in signal propagation and directionality. The experiment also showed the importance of proper alignment and impedance matching for efficient signal transmission. Overall, the trainer provided a clear demonstration of how antennas function in real communication environments.
-
+</details>
 ---
-
+<details>
 # Waveguides
 
 ## Introduction
@@ -67,3 +67,4 @@ The waveguide trainer allowed observation of microwave signal propagation throug
 
 ## Reflection / Learning Summary
 The experiment provided a better understanding of how microwave signals behave inside waveguide structures. It showed that waveguides are effective for transmitting high-frequency signals with low losses compared to other transmission methods. The use of different microwave components helped illustrate how signals can be controlled, measured, and optimized in communication systems. This activity strengthened the connection between theoretical microwave concepts and real laboratory applications.
+</details>
