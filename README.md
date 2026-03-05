@@ -296,6 +296,16 @@ Waveguides are structures used to guide electromagnetic waves from one point to 
 - Power Meter
 - Horn Antenna
 
+## Components of the Trainer
+
+<div align="center">
+<img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Waveguide/Waveguide%20trainer%20box%201.jpg" />
+  </div>
+
+<div align="center">
+<img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Waveguide/Waveguide%20trainer%20box%202.jpg" />
+  </div>
+
 ## Waveguide and Microwave Component Descriptions
 
 ### Gunn Diode Oscillator
@@ -345,3 +355,14 @@ The waveguide trainer allowed observation of microwave signal propagation throug
 The experiment provided a better understanding of how microwave signals behave inside waveguide structures. It showed that waveguides are effective for transmitting high-frequency signals with low losses compared to other transmission methods. The use of different microwave components helped illustrate how signals can be controlled, measured, and optimized in communication systems. This activity strengthened the connection between theoretical microwave concepts and real laboratory applications.
 
 </details>
+
+# Reference
+
+### Antennas
+ - https://www.electronics-notes.com/articles/antennas-propagation/
+ - https://www.allaboutcircuits.com/textbook/radio-frequency-analysis-design/
+ - https://www.antenna-theory.com/
+ - 
+### Waveguide
+ - https://www.techtarget.com/searchmobilecomputing/definition/antenna
+ - https://www.antenna-theory.com/tutorial/waveguides/waveguides.php
