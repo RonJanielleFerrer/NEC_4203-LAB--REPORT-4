@@ -296,6 +296,48 @@ Waveguides are structures used to guide electromagnetic waves from one point to 
 - Power Meter
 - Horn Antenna
 
+## Waveguide and Microwave Component Descriptions
+
+### Gunn Diode Oscillator
+A Gunn diode oscillator is a solid-state microwave source that generates high-frequency signals through the Gunn effect, a phenomenon occurring in certain semiconductor materials. It is commonly used in the X-band frequency range for microwave laboratory experiments, radar systems, and communication equipment. The device produces stable microwave signals used as the input source for waveguide experiments.
+
+### Klystron Oscillator
+A klystron oscillator is a vacuum tube device designed to generate and amplify microwave signals using velocity modulation of an electron beam. It is capable of producing highly stable and tunable microwave frequencies. Klystrons are widely used in microwave transmitters, satellite communication systems, and radar applications due to their ability to generate high-power signals.
+
+### Waveguide Sections
+Waveguide sections are hollow metallic structures designed to guide electromagnetic waves, particularly microwave signals, from one point to another. These structures typically have rectangular or circular cross-sections that confine the electromagnetic field within the guide. Waveguides allow efficient transmission of high-frequency signals with minimal power loss and are commonly used in radar, satellite communication, and microwave systems.
+
+### Directional Coupler
+A directional coupler is a passive microwave device that splits a portion of the signal power from a transmission line into another port while allowing the main signal to continue along its path. It is commonly used to monitor signal power, measure reflected signals, and analyze transmission performance in microwave circuits.
+
+### Waveguide Connectors
+Waveguide connectors are mechanical components used to join different waveguide sections and microwave devices. They ensure proper alignment and electrical continuity between components so that microwave signals can pass through without significant leakage or loss.
+
+### Isolator
+An isolator is a passive microwave device that allows signals to pass in one direction while blocking signals traveling in the opposite direction. It protects sensitive microwave sources, such as oscillators, from damage caused by reflected power and impedance mismatches in the transmission line.
+
+### Circulator
+A circulator is a multi-port microwave device that routes signals from one port to the next in a circular sequence. For example, a signal entering port 1 exits port 2, while a signal entering port 2 exits port 3. Circulators are widely used in radar and communication systems to control signal flow and separate transmitted and received signals.
+
+### Attenuator
+An attenuator is a device used to reduce the power level of a microwave signal without significantly distorting its waveform. It is used in measurement systems to control signal levels, prevent equipment overload, and allow accurate testing of microwave circuits.
+
+### SWR Meter
+A Standing Wave Ratio (SWR) meter measures the ratio of reflected power to forward power in a transmission line. It is used to determine how well the transmission line and load are impedance matched. A low SWR value indicates efficient power transfer, while a high SWR indicates reflections and possible signal loss.
+
+### Frequency Meter
+A frequency meter is used to measure the operating frequency of a microwave signal source. In waveguide systems, it typically works by detecting resonance within a cavity tuned to specific microwave frequencies.
+
+### Power Meter
+A microwave power meter measures the amount of power present in a microwave signal. It is an essential instrument for analyzing signal strength, evaluating system performance, and ensuring that microwave devices operate within safe limits.
+
+### Horn Antenna
+A horn antenna is a flared waveguide structure used to convert guided microwave signals into free-space electromagnetic radiation. It provides good directivity and impedance matching, making it widely used in radar systems, satellite communication, and antenna measurement experiments.
+
+## Setup
+
+![Waveguide Setup](https://github.com/user-attachments/assets/97e59f11-2b6f-410d-bfd0-62654d151147)
+
 ## Results and Discussion
 The waveguide trainer allowed observation of microwave signal propagation through different waveguide components. The microwave source generated high-frequency signals which were guided through the waveguide sections. By connecting various passive components such as isolators, circulators, and attenuators, the behavior of microwave signals could be controlled and analyzed. Measurements using SWR and power meters demonstrated how impedance matching and component configuration influence microwave transmission efficiency.
 
